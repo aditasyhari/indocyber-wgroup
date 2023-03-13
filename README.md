@@ -8,6 +8,6 @@ Langkah - langkah install:
 7. php artisan migrate --seed
 8. php artisan serve
 
-url cms
+url login/register cms
 2. login : {base_url}/cms/auth/login
 2. register : {base_url}/cms/auth/register
