@@ -3,8 +3,10 @@ Langkah - langkah install:
 2. masuk ke terminal project
 3. buat file .env dan atur database
 4. composer install
-5. php artisan migrate --seed
-6. php artisan serve
+5. php artisan config:clear
+6. php artisan key:generate
+7. php artisan migrate --seed
+8. php artisan serve
 
 url login 
 1. website : {base_url}/login
